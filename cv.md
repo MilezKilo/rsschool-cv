@@ -5,4 +5,4 @@
 5. My GitHub with some source code: _https://github.com/MilezKilo_
 6. At the moment there is no work experience, except pet projects 
 7. Higher management education 
-8. English level is B1
+8. **English level is B1**
